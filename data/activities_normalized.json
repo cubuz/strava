@@ -12816,5 +12816,18 @@
     "start_date_local": "2026-03-22T11:08:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 41506.8,
+    "elevation_gain": 133.0,
+    "id": "17829419098",
+    "moving_time": 5306.0,
+    "name": "tak szybko ze nie zdazylem fotki zrobic zastepczo kotek",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-23T15:58:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
