@@ -12829,5 +12829,18 @@
     "start_date_local": "2026-03-23T15:58:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 60893.5,
+    "elevation_gain": 64.0,
+    "id": "17940336825",
+    "moving_time": 9029.0,
+    "name": "6dziesiona po prawym",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T16:34:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
