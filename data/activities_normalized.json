@@ -12855,5 +12855,18 @@
     "start_date_local": "2026-04-06T18:08:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 41639.5,
+    "elevation_gain": 426.0,
+    "id": "18056378399",
+    "moving_time": 8301.0,
+    "name": "improwizacja po lesie",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-10T16:45:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
