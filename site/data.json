@@ -8958,7 +8958,7 @@
     {
       "date": "2026-05-02",
       "hour": 13,
-      "name": "Afternoon Ride",
+      "name": "na grilla !",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18347464794",
@@ -17389,7 +17389,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:43:48.408098+00:00",
+  "generated_at": "2026-05-03T15:44:48.054957+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
