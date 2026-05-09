@@ -12972,5 +12972,18 @@
     "start_date_local": "2026-05-05T19:31:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 76962.6,
+    "elevation_gain": 166.0,
+    "id": "18428221457",
+    "moving_time": 8917.0,
+    "name": "za beemiarzem",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T16:11:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
