@@ -12985,5 +12985,18 @@
     "start_date_local": "2026-05-08T16:11:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 19421.8,
+    "elevation_gain": 1669.0,
+    "id": "18616210645",
+    "moving_time": 18784.0,
+    "name": "tatry#2",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-22T09:53:44Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
