@@ -8992,12 +8992,48 @@
       "year": 2026
     },
     {
+      "date": "2026-05-21",
+      "hour": 10,
+      "name": "tatry#1",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18626786495",
+      "year": 2026
+    },
+    {
       "date": "2026-05-22",
       "hour": 9,
       "name": "tatry#2",
       "subtype": "Walk",
       "type": "Walk",
       "url": "https://www.strava.com/activities/18616210645",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-23",
+      "hour": 11,
+      "name": "tatry#3",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18624190176",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 11,
+      "name": "tatry#4",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18635919210",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 11,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18637246835",
       "year": 2026
     }
   ],
@@ -17156,6 +17192,17 @@
           "moving_time": 277.0
         }
       },
+      "Hike": {
+        "2026-05-24": {
+          "activity_ids": [
+            "18637246835"
+          ],
+          "count": 1,
+          "distance": 13193.8,
+          "elevation_gain": 313.0,
+          "moving_time": 9607.0
+        }
+      },
       "Ride": {
         "2026-01-01": {
           "activity_ids": [
@@ -17451,6 +17498,15 @@
           "elevation_gain": 3.2,
           "moving_time": 1490.0
         },
+        "2026-05-21": {
+          "activity_ids": [
+            "18626786495"
+          ],
+          "count": 1,
+          "distance": 13172.4,
+          "elevation_gain": 785.2,
+          "moving_time": 11013.0
+        },
         "2026-05-22": {
           "activity_ids": [
             "18616210645"
@@ -17459,11 +17515,29 @@
           "distance": 19421.8,
           "elevation_gain": 1669.0,
           "moving_time": 18784.0
+        },
+        "2026-05-23": {
+          "activity_ids": [
+            "18624190176"
+          ],
+          "count": 1,
+          "distance": 20098.3,
+          "elevation_gain": 809.2,
+          "moving_time": 16380.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18635919210"
+          ],
+          "count": 1,
+          "distance": 14094.9,
+          "elevation_gain": 297.2,
+          "moving_time": 9263.0
         }
       }
     }
   },
-  "generated_at": "2026-05-23T16:01:20.488772+00:00",
+  "generated_at": "2026-05-24T16:00:13.861111+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
