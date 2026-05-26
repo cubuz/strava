@@ -13050,5 +13050,18 @@
     "start_date_local": "2026-05-24T11:41:14Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 42694.1,
+    "elevation_gain": 126.0,
+    "id": "18663217984",
+    "moving_time": 5472.0,
+    "name": "halinki na rowerach",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-26T16:57:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
