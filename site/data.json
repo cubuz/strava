@@ -9062,6 +9062,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18704534725",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 12,
+      "name": "cos tam drgnelo",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18728838119",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17428,6 +17437,15 @@
           "distance": 60033.8,
           "elevation_gain": 246.0,
           "moving_time": 7809.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18728838119"
+          ],
+          "count": 1,
+          "distance": 77122.5,
+          "elevation_gain": 151.0,
+          "moving_time": 9128.0
         }
       },
       "Run": {
@@ -17591,7 +17609,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T16:03:27.390942+00:00",
+  "generated_at": "2026-05-31T16:06:08.590168+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
