@@ -13102,5 +13102,18 @@
     "start_date_local": "2026-05-31T12:11:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 82349.2,
+    "elevation_gain": 168.0,
+    "id": "18759420200",
+    "moving_time": 9883.0,
+    "name": "caly szczecin na szosie",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T17:01:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
