@@ -9089,6 +9089,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18813815180",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 17,
+      "name": "coffee \u2615\ufe0f rajd",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18828398838",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17473,6 +17482,15 @@
           "distance": 82349.2,
           "elevation_gain": 168.0,
           "moving_time": 9883.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18828398838"
+          ],
+          "count": 1,
+          "distance": 62456.9,
+          "elevation_gain": 217.0,
+          "moving_time": 7915.0
         }
       },
       "Run": {
@@ -17647,7 +17665,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:13:41.528316+00:00",
+  "generated_at": "2026-06-08T17:51:10.776203+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",

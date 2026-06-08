@@ -13128,5 +13128,18 @@
     "start_date_local": "2026-06-06T12:58:14Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 62456.9,
+    "elevation_gain": 217.0,
+    "id": "18828398838",
+    "moving_time": 7915.0,
+    "name": "coffee \u2615\ufe0f rajd",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-07T17:59:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
