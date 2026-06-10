@@ -13141,5 +13141,18 @@
     "start_date_local": "2026-06-07T17:59:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 50184.1,
+    "elevation_gain": 263.0,
+    "id": "18853973951",
+    "moving_time": 6996.0,
+    "name": "w kagancu ;)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-09T16:42:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
