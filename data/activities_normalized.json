@@ -13154,5 +13154,18 @@
     "start_date_local": "2026-06-09T16:42:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 90136.7,
+    "elevation_gain": 196.0,
+    "id": "18901398851",
+    "moving_time": 10576.0,
+    "name": "Warunki na treningu mieli\u015bmy bardzo dobre! Wszystko to zas\u0142uga swietnej prognozy pogody i nie jest prawd\u0105, \u017ce nad nami drzewa  przecieka\u0142y! Szczeg\u00f3lnie, \u017ce prawie nie pada\u0142o!",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-13T09:19:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
