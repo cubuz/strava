@@ -13167,5 +13167,18 @@
     "start_date_local": "2026-06-13T09:19:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 74988.2,
+    "elevation_gain": 261.0,
+    "id": "18948181956",
+    "moving_time": 8391.0,
+    "name": "jak za starych czasow \ud83e\udd72",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T18:32:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

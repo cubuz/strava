@@ -9116,6 +9116,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18901398851",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 18,
+      "name": "jak za starych czasow \ud83e\udd72",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18948181956",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17527,6 +17536,15 @@
           "distance": 90136.7,
           "elevation_gain": 196.0,
           "moving_time": 10576.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18948181956"
+          ],
+          "count": 1,
+          "distance": 74988.2,
+          "elevation_gain": 261.0,
+          "moving_time": 8391.0
         }
       },
       "Run": {
@@ -17701,7 +17719,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:54:21.455558+00:00",
+  "generated_at": "2026-06-17T17:49:00.701613+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
