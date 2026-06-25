@@ -13193,5 +13193,18 @@
     "start_date_local": "2026-06-21T08:54:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 2260.3,
+    "elevation_gain": 5.0,
+    "id": "19054293930",
+    "moving_time": 494.0,
+    "name": "d0 Wilno",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T23:51:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
