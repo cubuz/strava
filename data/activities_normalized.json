@@ -13206,5 +13206,18 @@
     "start_date_local": "2026-06-24T23:51:42Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 181908.0,
+    "elevation_gain": 1198.0,
+    "id": "19066032002",
+    "moving_time": 27863.0,
+    "name": "d1 wilno mariampol",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T09:46:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
