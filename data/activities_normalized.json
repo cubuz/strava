@@ -13219,5 +13219,18 @@
     "start_date_local": "2026-06-25T09:46:39Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 141789.0,
+    "elevation_gain": 859.0,
+    "id": "19076599191",
+    "moving_time": 21633.0,
+    "name": "d2 marijampole - wegorzewo, kraina bocianow i szutrow premium ocierajac sie o ruskich",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T10:00:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
