@@ -13232,5 +13232,31 @@
     "start_date_local": "2026-06-26T10:00:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 163184.0,
+    "elevation_gain": 627.0,
+    "id": "19089375118",
+    "moving_time": 24326.0,
+    "name": "d3 wegorzewo - nowa pasleka, nowy kom termiczny",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-27T09:15:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 126661.0,
+    "elevation_gain": 514.0,
+    "id": "19100145280",
+    "moving_time": 20349.0,
+    "name": "Poranna jazda na rowerze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T07:52:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
