@@ -9174,7 +9174,7 @@
     {
       "date": "2026-06-28",
       "hour": 7,
-      "name": "Poranna jazda na rowerze",
+      "name": "d4 nowa pasleka - gdansk, \u017car, gps zepsuty, koniec zabawy",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/19100145280",
@@ -17827,7 +17827,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T16:08:45.149317+00:00",
+  "generated_at": "2026-06-29T17:35:09.844230+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
