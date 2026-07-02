@@ -13258,5 +13258,18 @@
     "start_date_local": "2026-06-28T07:52:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 61730.5,
+    "elevation_gain": 196.0,
+    "id": "19141704746",
+    "moving_time": 8269.0,
+    "name": "reco-pogaduchy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-01T18:46:37Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
