@@ -13284,5 +13284,18 @@
     "start_date_local": "2026-07-04T09:49:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 59059.9,
+    "elevation_gain": 215.0,
+    "id": "19231509425",
+    "moving_time": 7206.0,
+    "name": "Windy Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-08T16:37:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
