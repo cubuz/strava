@@ -13349,5 +13349,31 @@
     "start_date_local": "2026-07-15T17:59:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 55598.2,
+    "elevation_gain": 195.0,
+    "id": "19469525932",
+    "moving_time": 12872.0,
+    "name": "bikepacking \ud83c\udfd5\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T09:49:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 50789.9,
+    "elevation_gain": 126.4,
+    "id": "19474806965",
+    "moving_time": 9081.0,
+    "name": "powrot bikepacking",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-26T12:24:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
