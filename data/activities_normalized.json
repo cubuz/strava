@@ -13375,5 +13375,18 @@
     "start_date_local": "2026-07-26T12:24:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 36463.2,
+    "elevation_gain": 113.0,
+    "id": "19532472919",
+    "moving_time": 4575.0,
+    "name": "35+ ? trzeba isc \ud83d\udeb4\u200d\u2642\ufe0f",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-30T17:16:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
