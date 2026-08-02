@@ -13388,5 +13388,18 @@
     "start_date_local": "2026-07-30T17:16:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 96443.9,
+    "elevation_gain": 195.0,
+    "id": "19560669990",
+    "moving_time": 11138.0,
+    "name": "niesetka sierpniowa z grzybiarzem",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T17:10:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
