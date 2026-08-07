@@ -13414,5 +13414,31 @@
     "start_date_local": "2026-08-04T14:32:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 65451.2,
+    "elevation_gain": 50.0,
+    "id": "19629360377",
+    "moving_time": 7141.0,
+    "name": "ronin\u2019s journey",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T16:19:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 14760.0,
+    "elevation_gain": 28.0,
+    "id": "19631461558",
+    "moving_time": 1887.0,
+    "name": "Wieczorna jazda na rowerze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T20:33:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
