@@ -9305,6 +9305,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19631461558",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 10,
+      "name": "do barcioszka i spowrotem",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19672463329",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17462,6 +17471,17 @@
           "moving_time": 277.0
         }
       },
+      "GravelRide": {
+        "2026-08-09": {
+          "activity_ids": [
+            "19672463329"
+          ],
+          "count": 1,
+          "distance": 90326.5,
+          "elevation_gain": 331.6,
+          "moving_time": 16790.0
+        }
+      },
       "Hike": {
         "2026-05-24": {
           "activity_ids": [
@@ -18071,7 +18091,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:29:08.553279+00:00",
+  "generated_at": "2026-08-10T15:58:36.307355+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
@@ -18089,6 +18109,10 @@
     "Crossfit": {
       "accent": "#00bbf9",
       "label": "Crossfit"
+    },
+    "GravelRide": {
+      "accent": "#00f5d4",
+      "label": "Gravel Ride"
     },
     "Hike": {
       "accent": "#d6ff6b",
@@ -18135,6 +18159,7 @@
     "AlpineSki",
     "Canoeing",
     "Crossfit",
+    "GravelRide",
     "Hike",
     "Kayaking",
     "Ride",
