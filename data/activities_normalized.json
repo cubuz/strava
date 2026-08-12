@@ -13453,5 +13453,18 @@
     "start_date_local": "2026-08-09T10:44:26Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 60935.2,
+    "elevation_gain": 84.0,
+    "id": "19699525343",
+    "moving_time": 7447.0,
+    "name": "boonya ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T17:25:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
