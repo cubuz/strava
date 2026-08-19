@@ -13466,5 +13466,18 @@
     "start_date_local": "2026-08-11T17:25:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 70584.2,
+    "elevation_gain": 239.0,
+    "id": "19797116732",
+    "moving_time": 8465.0,
+    "name": "nowe rewiry",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T16:11:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
