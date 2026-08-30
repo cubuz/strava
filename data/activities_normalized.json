@@ -13505,5 +13505,31 @@
     "start_date_local": "2026-08-26T17:25:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 7681.6,
+    "elevation_gain": 18.0,
+    "id": "19959818799",
+    "moving_time": 1257.0,
+    "name": "na piwak !",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-29T21:43:42Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 70133.1,
+    "elevation_gain": 353.0,
+    "id": "19966373620",
+    "moving_time": 13315.0,
+    "name": "Jazda na rowerze w porze lunchu",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T11:23:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
