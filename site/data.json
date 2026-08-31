@@ -9368,6 +9368,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19966373620",
       "year": 2026
+    },
+    {
+      "date": "2026-08-31",
+      "hour": 15,
+      "name": "zamkni\u0119te drogi, porywisty wiatr w ryj, burza z ulewa, ale v odbite z Trzcinskiej niewoli",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19977999199",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18016,6 +18025,15 @@
           "distance": 70133.1,
           "elevation_gain": 353.0,
           "moving_time": 13315.0
+        },
+        "2026-08-31": {
+          "activity_ids": [
+            "19977999199"
+          ],
+          "count": 1,
+          "distance": 83980.0,
+          "elevation_gain": 279.0,
+          "moving_time": 10102.0
         }
       },
       "Run": {
@@ -18199,7 +18217,7 @@
       }
     }
   },
-  "generated_at": "2026-08-30T18:24:25.505167+00:00",
+  "generated_at": "2026-08-31T20:39:09.334223+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
