@@ -9377,6 +9377,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19977999199",
       "year": 2026
+    },
+    {
+      "date": "2026-09-02",
+      "hour": 17,
+      "name": "coz za spotkanie \ud83e\udd1d",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20009022215",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18034,6 +18043,15 @@
           "distance": 83980.0,
           "elevation_gain": 279.0,
           "moving_time": 10102.0
+        },
+        "2026-09-02": {
+          "activity_ids": [
+            "20009022215"
+          ],
+          "count": 1,
+          "distance": 64878.6,
+          "elevation_gain": 161.0,
+          "moving_time": 7546.0
         }
       },
       "Run": {
@@ -18217,7 +18235,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:08:59.346870+00:00",
+  "generated_at": "2026-09-02T18:25:20.949582+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
