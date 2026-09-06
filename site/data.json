@@ -9386,6 +9386,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20009022215",
       "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20051317403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18052,6 +18061,15 @@
           "distance": 64878.6,
           "elevation_gain": 161.0,
           "moving_time": 7546.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20051317403"
+          ],
+          "count": 1,
+          "distance": 65804.1,
+          "elevation_gain": 192.0,
+          "moving_time": 7920.0
         }
       },
       "Run": {
@@ -18235,7 +18253,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:08:43.722079+00:00",
+  "generated_at": "2026-09-06T17:30:36.288654+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
