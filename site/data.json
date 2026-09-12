@@ -9395,6 +9395,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20051317403",
       "year": 2026
+    },
+    {
+      "date": "2026-09-12",
+      "hour": 8,
+      "name": "dawno nie bylo",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20147565898",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18070,6 +18079,15 @@
           "distance": 65804.1,
           "elevation_gain": 192.0,
           "moving_time": 7920.0
+        },
+        "2026-09-12": {
+          "activity_ids": [
+            "20147565898"
+          ],
+          "count": 1,
+          "distance": 264738.0,
+          "elevation_gain": 363.0,
+          "moving_time": 30943.0
         }
       },
       "Run": {
@@ -18253,7 +18271,7 @@
       }
     }
   },
-  "generated_at": "2026-09-11T18:10:15.950146+00:00",
+  "generated_at": "2026-09-12T17:41:01.088294+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
