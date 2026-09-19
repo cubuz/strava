@@ -13609,5 +13609,18 @@
     "start_date_local": "2026-09-17T17:36:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-19",
+    "distance": 6022.6,
+    "elevation_gain": 40.4,
+    "id": "20236194540",
+    "moving_time": 2235.0,
+    "name": "Poranne bieganie",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-19T09:22:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

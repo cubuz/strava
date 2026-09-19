@@ -9422,6 +9422,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20215819042",
       "year": 2026
+    },
+    {
+      "date": "2026-09-19",
+      "hour": 9,
+      "name": "Poranne bieganie",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20236194540",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18153,6 +18162,15 @@
           "distance": 12500.7,
           "elevation_gain": 76.4,
           "moving_time": 5866.0
+        },
+        "2026-09-19": {
+          "activity_ids": [
+            "20236194540"
+          ],
+          "count": 1,
+          "distance": 6022.6,
+          "elevation_gain": 40.4,
+          "moving_time": 2235.0
         }
       },
       "VirtualRide": {
@@ -18307,7 +18325,7 @@
       }
     }
   },
-  "generated_at": "2026-09-18T18:04:30.854899+00:00",
+  "generated_at": "2026-09-19T17:46:00.827042+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
