@@ -13622,5 +13622,18 @@
     "start_date_local": "2026-09-19T09:22:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 65188.2,
+    "elevation_gain": 148.0,
+    "id": "20284274893",
+    "moving_time": 7120.0,
+    "name": "Popo\u0142udniowa jazda na rowerze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T16:36:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
