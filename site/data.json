@@ -9476,6 +9476,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20436248940",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "z dziadersami ;)",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20449965744",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18214,6 +18223,15 @@
           "distance": 84162.6,
           "elevation_gain": 204.0,
           "moving_time": 12299.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20449965744"
+          ],
+          "count": 1,
+          "distance": 87984.6,
+          "elevation_gain": 324.0,
+          "moving_time": 13321.0
         }
       },
       "Run": {
@@ -18415,7 +18433,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:32:20.437487+00:00",
+  "generated_at": "2026-10-04T18:31:33.284658+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",

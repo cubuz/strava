@@ -13687,5 +13687,18 @@
     "start_date_local": "2026-10-03T14:30:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 87984.6,
+    "elevation_gain": 324.0,
+    "id": "20449965744",
+    "moving_time": 13321.0,
+    "name": "z dziadersami ;)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T11:50:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
