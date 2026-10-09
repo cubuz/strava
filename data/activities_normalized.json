@@ -13713,5 +13713,18 @@
     "start_date_local": "2026-10-05T19:45:49Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 34858.2,
+    "elevation_gain": 1809.8,
+    "id": "20517089155",
+    "moving_time": 30412.0,
+    "name": "jesienne tatry zachodnie",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-09T08:00:23Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
