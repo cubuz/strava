@@ -9507,7 +9507,7 @@
     {
       "date": "2026-10-10",
       "hour": 9,
-      "name": "Morning Hike",
+      "name": "jesienne tatry z po\u0142ow\u0105 Polski.",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/20529345221",
@@ -18487,7 +18487,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T19:07:18.213931+00:00",
+  "generated_at": "2026-10-11T19:19:53.767780+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
