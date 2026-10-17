@@ -13778,5 +13778,18 @@
     "start_date_local": "2026-10-16T17:47:22Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 65752.7,
+    "elevation_gain": 284.0,
+    "id": "20622607290",
+    "moving_time": 9286.0,
+    "name": "Popo\u0142udniowa jazda na rowerze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-17T13:29:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
