@@ -13804,5 +13804,18 @@
     "start_date_local": "2026-10-18T12:02:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20692421177",
+    "moving_time": 7440.0,
+    "name": "Wieczorny trening si\u0142owy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-20T19:05:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
