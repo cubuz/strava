@@ -13817,5 +13817,18 @@
     "start_date_local": "2026-10-20T19:05:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 7321.1,
+    "elevation_gain": 30.0,
+    "id": "20710737941",
+    "moving_time": 1268.0,
+    "name": "Poranna jazda na rowerze",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T10:31:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

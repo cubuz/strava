@@ -9566,6 +9566,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20692421177",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 10,
+      "name": "Poranna jazda na rowerze",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20710737941",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18358,6 +18367,15 @@
           "distance": 76637.7,
           "elevation_gain": 232.0,
           "moving_time": 11580.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20710737941"
+          ],
+          "count": 1,
+          "distance": 7321.1,
+          "elevation_gain": 30.0,
+          "moving_time": 1268.0
         }
       },
       "Run": {
@@ -18597,7 +18615,7 @@
       }
     }
   },
-  "generated_at": "2026-10-23T18:53:05.603634+00:00",
+  "generated_at": "2026-10-24T17:49:35.091060+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
