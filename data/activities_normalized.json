@@ -13830,5 +13830,18 @@
     "start_date_local": "2026-10-24T10:31:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 7511.6,
+    "elevation_gain": 43.0,
+    "id": "20727976927",
+    "moving_time": 2630.0,
+    "name": "Popo\u0142udniowe bieganie",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T16:11:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
