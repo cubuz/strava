@@ -13843,5 +13843,18 @@
     "start_date_local": "2026-10-25T16:11:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20742328605",
+    "moving_time": 3311.0,
+    "name": "Wieczorny trening",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-26T19:43:06Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

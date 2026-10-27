@@ -9584,6 +9584,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20727976927",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 19,
+      "name": "Wieczorny trening",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20742328605",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18629,11 +18638,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3705.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20742328605"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3311.0
         }
       }
     }
   },
-  "generated_at": "2026-10-26T20:17:58.999395+00:00",
+  "generated_at": "2026-10-27T19:48:52.283586+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
