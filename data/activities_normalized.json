@@ -13856,5 +13856,31 @@
     "start_date_local": "2026-10-26T19:43:06Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20783993226",
+    "moving_time": 8910.0,
+    "name": "Popo\u0142udniowy trening si\u0142owy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-28T17:07:31Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20783993374",
+    "moving_time": 3882.0,
+    "name": "Wieczorny trening",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-29T19:33:51Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

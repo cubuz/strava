@@ -9593,6 +9593,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20742328605",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 17,
+      "name": "Popo\u0142udniowy trening si\u0142owy",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20783993226",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-29",
+      "hour": 19,
+      "name": "Wieczorny trening",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20783993374",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18600,6 +18618,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7440.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20783993226"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8910.0
         }
       },
       "Workout": {
@@ -18647,11 +18674,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3311.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20783993374"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3882.0
         }
       }
     }
   },
-  "generated_at": "2026-10-29T20:03:20.125787+00:00",
+  "generated_at": "2026-10-30T19:50:56.049725+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
