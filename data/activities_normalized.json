@@ -13882,5 +13882,31 @@
     "start_date_local": "2026-10-29T19:33:51Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20815428758",
+    "moving_time": 6224.0,
+    "name": "Popo\u0142udniowy trening si\u0142owy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-30T17:26:06Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 10703.8,
+    "elevation_gain": 56.6,
+    "id": "20815428993",
+    "moving_time": 3537.0,
+    "name": "Bieganie w porze lunchu",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T11:12:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
