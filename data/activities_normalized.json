@@ -13908,5 +13908,31 @@
     "start_date_local": "2026-11-01T11:12:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20934573584",
+    "moving_time": 5226.0,
+    "name": "Poranny trening",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-09T09:08:59Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20934573519",
+    "moving_time": 3349.0,
+    "name": "Poranny trening",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-10T09:14:16Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
