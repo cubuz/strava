@@ -13934,5 +13934,18 @@
     "start_date_local": "2026-11-10T09:14:16Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21042377913",
+    "moving_time": 3969.0,
+    "name": "training ground vol3",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-19T09:02:02Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

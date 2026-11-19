@@ -9647,6 +9647,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/20934573519",
       "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 9,
+      "name": "training ground vol3",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/21042377913",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18755,11 +18764,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3349.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21042377913"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3969.0
         }
       }
     }
   },
-  "generated_at": "2026-11-18T22:28:27.572238+00:00",
+  "generated_at": "2026-11-19T22:33:54.194709+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
