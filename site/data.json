@@ -9656,6 +9656,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/21042377913",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 9,
+      "name": "szybki powrot do rzeczywistosci",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/21080950986",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18457,6 +18466,15 @@
           "distance": 7321.1,
           "elevation_gain": 30.0,
           "moving_time": 1268.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21080950986"
+          ],
+          "count": 1,
+          "distance": 44134.1,
+          "elevation_gain": 52.0,
+          "moving_time": 7479.0
         }
       },
       "Run": {
@@ -18777,7 +18795,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:46:07.418846+00:00",
+  "generated_at": "2026-11-22T20:55:30.590319+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
