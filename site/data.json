@@ -9669,7 +9669,7 @@
     {
       "date": "2026-11-23",
       "hour": 19,
-      "name": "Wieczorny trening",
+      "name": "wuef",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/21098790236",
@@ -18813,7 +18813,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T01:59:44.042940+00:00",
+  "generated_at": "2026-11-24T23:45:31.883240+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
