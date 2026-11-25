@@ -9674,6 +9674,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/21098790236",
       "year": 2026
+    },
+    {
+      "date": "2026-11-25",
+      "hour": 7,
+      "name": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/21116783167",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18717,6 +18726,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6224.0
+        },
+        "2026-11-25": {
+          "activity_ids": [
+            "21116783167"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4971.0
         }
       },
       "Workout": {
@@ -18813,7 +18831,7 @@
       }
     }
   },
-  "generated_at": "2026-11-24T23:45:31.883240+00:00",
+  "generated_at": "2026-11-25T23:28:03.618946+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/7942940",
   "repo": "cubuz/strava",
