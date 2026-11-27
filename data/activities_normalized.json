@@ -13999,5 +13999,18 @@
     "start_date_local": "2026-11-26T19:35:41Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-11-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "21143642962",
+    "moving_time": 4613.0,
+    "name": "Popo\u0142udniowy trening si\u0142owy",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-27T14:47:49Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
